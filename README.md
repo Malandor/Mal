@@ -1,2 +1,2 @@
-# Mal
+# Headline
 This is a test
