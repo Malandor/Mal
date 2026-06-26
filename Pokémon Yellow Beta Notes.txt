@@ -1,0 +1,76 @@
+Pokémon Yellow Beta Notes
+Nice to have:
+- Randomized Rival starter
+- Randomized Starter (probably defeats the point of yellow)
+- Shopsanity
+QoL:
+- Autoswitch pc-boxes when full
+- "Catch new mon"-encounters. Helps with dexsanity and low % encounters.
+- Water Stone And Fire Stone got Consumed upon use (Would be nice to make it a key item)
+
+PopTracker:
+Works:
+- Does connect
+- Events work
+- Alternate Badge requirement works
+- Auto Route Switching works
+Does Not Work:
+- Does not auto detect trainer-sanity in settings.
+- Doesn't receive items, must be clicked manually
+- Regular checks needs to be clicked manually.
+- Dex-sanity checks also manual
+- Tracker does not show trainers for trainer-sanity
+QoL:
+- Encounter tracking based on caught mons
+Logic:
+- Viridian Forest: 4 encounters (instead of 5)
+- Route 2: 4 encounters (instead of 3)
+- Route 3: 4 encounters (instead of 3)
+- Last Team Rocket grunt MT. MoonB2F not present (Replace with Jessie & James)
+- Route 4: 4 encounters (instead of 3)
+- Cerulean City: Trade not present (Replace with Gift Pokémon)
+- Route 24: Include gift Pokémon
+- Route 25: 5 encounters (instead of 7)
+- Route 5: 5 encounters (instead of 3)
+- Route 6: 5 encounters (instead of 3)
+- Vermillion City: Trade not present (Replace with Gift Pokémon)
+- Route 11: 5 encounters (instead of 3)
+- Route 9: 8 encounters (instead of 3)
+- Route 10: 6 encounters (instead of 3)
+- Rock Tunnel 1F: 3 encounters (instead of 4)
+- Route 8: 6 encounters (instead of 4)
+- Route 7: 5 encounters (instead of 4)
+- Route 16: 5 encounters (instead of 4)
+- Pokémon Tower 3F: 2 encounters (instead of 3)
+- Pokémon Tower 4F: 2 encounters (instead of 3)
+- Pokémon Tower: 3 Grunts not present (replace with Jessie & James)
+
+Game:
+Works
+- Dexsanity works
+- Hidden items (no itemfinder req) works
+- Start inventory works
+- Exp Multiplier works
+- Random trainer mons work
+- Random encounters work
+- Trainersanity auto-send the check after defeating(new to beta?)
+- Reusable Tm's Work
+- Magikarp salesman works correctly + Dexsanity
+- Fossil pick-up work as intended.
+- Jessie & James (Mt.Moon) check works
+- Gift mon Route 24 Works.
+- Lt.surge Gym: 1 lock door open, works
+- Vermlion city: Gift pokemon post Lt surge Works.
+- Chaos music works
+- Extra Strength boulder work
+- Resending local found items after crash and reconnect, works.
+- Max Repel auto-continue Prompt, works
+Does not work:
+- Error Upon connecting: "Wrong Name POKEMON YEL for this client."
+- Normalized encounter does not seem to work.
+- Blind Trainers doesn't work
+- Catch rate (255) does not work (Master balls still needed)
+- Evolve trade evo's with level-up does not work (example tested: both kadabra, haunter and machoke at lvl 50, still not evolved)
+- Vermlion city: Gift pokemon post Lt surge Glitched name when receiving the pokemon.
+- Connection time-out Error after few hours of gameplay. Happened twice.
+Logic:
